@@ -35,7 +35,6 @@ It allows users to take quizzes based on various categories and difficulty level
 
 ---
 
-## 🗂️ Project Structure
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
 git clone https://github.com/rajp6508/QuizeApp-java-WebApp.git
@@ -71,7 +70,7 @@ Open the browser and visit:
 	
 🧑‍💻 Author
 
-👋 Raj Puri
+👋 Raju Puri
 📧 Email: rajp66228@gmail.com
 
 ⭐ Contribute / Support
